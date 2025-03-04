@@ -33,8 +33,8 @@ An automated subtitle downloader for movies and TV shows using Subliminal.
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/ericvlog/Downsub.git
+   cd Downsub
    ```
 
 2. **Install Dependencies:**
